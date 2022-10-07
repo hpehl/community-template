@@ -2,13 +2,13 @@
 
 This repository is a collection of [recommended community standards](https://opensource.guide/). The recommendations are based on [community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) from the GitHub documentation.
 
-The recommendations are just that - recommendations. They should help you when you create a new repository or want to adjust the community standards of existing repositories. None of the files are mandatory, but having as many of them as possible helps build a trusted community for your project.
+The recommendations are just that - recommendations. They should help you when you create a new repository or want to adjust the community standards of your existing repositories. None of the files are mandatory, but having as many of them as possible helps build a trusted community for your project.
 
 ## Code of Conduct
 
 A code of conduct defines standards for how to engage in a community. It signals an inclusive environment that respects all contributions.
 
-The code of conduct in this repository is adapted from the [Contributor Covenant][homepage], version 1.4,
+The code of conduct in this repository is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4,
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
 
 Another option is to adopt the [Red Hat Code of Conduct and Ethics](https://source.redhat.com/departments/legal/globallegalcompliance/compliance_folder/code_of_business_conduct_and_ethics_pdfpdf), which is only available if you have an account for the Source though. 
