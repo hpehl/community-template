@@ -2,7 +2,7 @@
 
 This repository is a collection of [recommended community standards](https://opensource.guide/). The recommendations are based on [community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) from the GitHub documentation.
 
-The recommendations are just that - recommendations. They should help you when you create a new repository or want to adjust the community standards of your existing repositories. None of the files are mandatory, but having as many of them as possible helps build a trusted community for your project.
+The recommendations are just that - recommendations. They should help you when you create a new repository or want to adjust the community standards of your existing repositories. None of the files are mandatory, but having as many of them as possible helps build a trusted community for your project. You can view how well you're doing with your repository by opening the community standards page of your repository: `https://github.org/<user|org>/<repository>/community`. This page also links to further resources on enhancing your repository's community standards. See https://github.com/hal/console/community for an example. 
 
 ## Code of Conduct
 
@@ -45,7 +45,7 @@ To help your project contributors do good work, you can add a file with contribu
 
 See https://github.com/hal/console/contribute for an example.
 
-The contribution guide in this repository is an example that follows some best practices and should be appropriate for many projects. You may need to adjust it to your projects and requirements though. 
+The contribution guide in this repository is an example that follows some best practices and should be appropriate for many projects. You may need to adjust it to your projects and requirements, though. 
 
 **Adopt:**
 
@@ -62,7 +62,7 @@ The contribution guide in this repository is an example that follows some best p
 
 With issue and pull request templates, you can customize and standardize the information you'd like contributors to include when they open issues and pull requests in your repository. While these templates are not required for all repositories, they can help enforce standards and avoid burdensome information retrieval.
 
-This repository does not contain templates for issues and pull requests. Please read the official documentation and follow the guides there to enable issue and pull request templates for your repository. 
+This repository does not contain templates for issues and pull requests. Please read the official documentation and follow the guides to enable issue and pull request templates for your repository. 
 
 **References:**
 
@@ -70,9 +70,9 @@ This repository does not contain templates for issues and pull requests. Please 
 
 ## Security
 
-You can give instructions for how to report a security vulnerability in your project by adding a security policy to your repository. If your repository contains a file called SECURITY.md, users who create an issue will see a link to your project's security policy.
+You can give instructions on reporting a security vulnerability in your project by adding a security policy to your repository. If your repository contains a file called SECURITY.md, users who create an issue will see a link to your project's security policy.
 
-This repository contains an example for a security policy which is an excerpt of the official Red Hat security policy. 
+This repository contains an example of a security policy excerpt from the official Red Hat security policy. 
 
 **References:**
 
