@@ -2,7 +2,9 @@
 
 This repository is a collection of [recommended community standards](https://opensource.guide/). The recommendations are based on [community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) from the GitHub documentation.
 
-The recommendations are just that - recommendations. They should help you when you create a new repository or want to adjust the community standards of your existing repositories. None of the files are mandatory, but having as many of them as possible helps build a trusted community for your project. You can view how well you're doing with your repository by opening the community standards page of your repository: `https://github.org/<user|org>/<repository>/community`. This page also links to further resources on enhancing your repository's community standards. See https://github.com/hal/console/community for an example. 
+The recommendations are just that - recommendations. They should help you when you create a new repository or want to adjust the community standards of your existing repositories. None of the files are mandatory, but having as many of them as possible helps build a trusted community for your project. 
+
+You can view how well you're doing with your repository by opening the community standards page of your repository: `https://github.org/<user|org>/<repository>/community` (see https://github.com/hal/console/community for an example). This page also links to further resources on enhancing your repository's community standards. 
 
 ## Code of Conduct
 
